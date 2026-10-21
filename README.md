@@ -1,4 +1,7 @@
 # VisualForge
+<p align="center">
+  <img src="hero.svg" alt="Project hero banner" width="100%">
+</p>
 
 > **A visual asset pipeline for coding agents. Zero paid image API required.**
 
